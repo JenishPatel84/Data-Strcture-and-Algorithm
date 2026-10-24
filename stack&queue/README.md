@@ -1,4 +1,4 @@
-# stackArray.cpp
+# <img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++"/> stackArray.cpp
 ## Stack Implementation Using Array in C++
 
 ## 📌 About the Project
