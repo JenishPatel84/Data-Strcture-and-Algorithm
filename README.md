@@ -9,7 +9,8 @@ My step-by-step workflow for learning and practicing **Data Structures and Algor
 4) Binary Search
 5) String
 6) Linked List
-7) Recursion and Backtracking       
+7) Recursion and Backtracking
+8) Stack & Queue       
 
 ```
 
