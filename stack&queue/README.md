@@ -64,9 +64,3 @@ Enter your choice: 2
 - **Stack Overflow:** Occurs when inserting an element into a full stack.
 - **Stack Underflow:** Occurs when removing an element from an empty stack.
 - **Array:** Stores stack elements in contiguous memory locations.
-
-**Your Name**
-
-## 📄 License
-
-This project is available for educational and learning purposes.
